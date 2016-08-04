@@ -1,0 +1,41 @@
+Twitter has had a tough time finding good news lately.
+
+It’s in the middle of a prolonged CEO search, its stock price has been tumbling, and growth in the number of people using the social network has slowed significantly.
+
+Citi’s Mark May revisited his projections for the company, cut his outlook for revenues, slashed his price target on the stock, and now warns the stock is “High Risk.”
+
+Using a formula accounting for user growth, time spent on Twitter and ad prices, May lowered his 2016 advertising revenue forecast for the company by 4.7%, from $US3.010 billion to $US2.868 billion, about $US145 million dollars.
+
+May lowered his price target for the share price from $US37 to $US30. He changed his rating from “Neutral” to “Neutral/High Risk”, which is as close as you can get to a “Sell” without being a “Sell”.
+
+“We rate Twitter High Risk because its high multiple (23x CY16 EBITDA) creates risk for significant multiple compression,” May wrote. “In addition, Twitter’s shares have proven to be especially volatile relative to other Internet stocks.”
+
+Twitter shares were trading at around $US25.60 on Thursday, down 4.5% from the previous day.
+
+Twitter
+Twitter shares are worth half of what they were worth in April.
+May is particularly concerned with Twitter’s inability to get people to engage with its ads.
+
+“Because we believe Twitter’s ad load has little room to increase in the US, achieving such an increase in monetisation will largely depend on the company’s ability to drive higher pricing and click-through rates,” said May in a note to clients Wednesday. “We believe this is unlikely and are lowering our US ad revenue forecasts accordingly.”
+
+This assessment, according to May, is derived in part from what Twitter management has recently been saying.
+
+“Management also recently acknowledged that if Twitter is unable to grow its audience and increase engagement, revenue growth could be impacted by limited ad availability,” wrote May. “We believe this implies that Twitter’s ad load, at least in the U.S., does not have room to meaningfully ramp from here.”
+
+Here’s Mays’ formula that lead him to his numbers:
+
+Twitter ad revenue formula
+To break down what is admittedly a jargon-packed chart, May multiplies 5 numbers:
+
+Change in monthly active users. This is the metric used by social media companies to track how many people are using their platforms.
+Change in timeline views per active user. May says this is a stand-in for how long people spend on the platform.
+Growth in impressions. This is the number of people seeing ads on Twitter.
+Change in click-through rate. This is the per cent of people actually clicking on the ads.
+Change in cost per impression. This is basically how much advertisers pay for ads.
+Based on extensive calculations derived from Twitter’s financial statements and recent comments from management, May determined that the first two numbers — user growth and time spent on Twitter — are unlikely to grow enough to generate the revenue to hit the consensus forecasts. This means it comes down to the 3 monetisation numbers.
+
+“In the absence of a meaningful acceleration in user growth or user engagement, it appears we need to have a meaningful acceleration in ad engagement (i.e., CTRs) and/or in ad pricing to meet or exceed current revenue forecasts,” said May. “We do not have confidence in making that assumption today.”
+
+International ad revenues, wrote May, are achievable, but the numbers are low and have room to grow. But his total ad revenue estimate, is now around 7% below consensus forecasts.
+
+In an environment where nothing is looking positive for Twitter, underperforming on ad revenue as May predicted is not going to make the outlook for the company any better.

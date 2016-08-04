@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileHandler()
+comment1.params=textFileName\ botName
+comment1.target=java.util.Map\ getWordsFromTextFile(java.lang.String,\ java.lang.String)
+comment10.params=map\ botName
+comment10.target=java.util.Map\ removeBotsWords(java.util.Map,\ java.lang.String)
+comment2.params=bot
+comment2.target=void\ saveABot(Bot)
+comment3.params=botFileName
+comment3.target=Bot\ loadABot(java.lang.String)
+comment4.params=guw\ botName
+comment4.target=void\ saveGUW(java.util.ArrayList,\ java.lang.String)
+comment5.params=FILEPATH
+comment5.target=java.util.ArrayList\ readTextFile(java.lang.String)
+comment6.params=fullText
+comment6.target=java.util.Map\ mapTextFile(java.util.ArrayList)
+comment7.params=map
+comment7.target=java.util.Map\ sortByValue(java.util.Map)
+comment8.params=o1\ o2
+comment8.target=int\ compare(java.util.Map.Entry,\ java.util.Map.Entry)
+comment9.params=map
+comment9.target=java.util.Map\ removeUselessWords(java.util.Map)
+numComments=11

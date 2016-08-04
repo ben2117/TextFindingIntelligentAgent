@@ -1,0 +1,630 @@
+cared cares caring enjoyed enjoys enjoying happens happening happened reduces reduced reducing settles settling settled accounted carries carrying counts counted counting examines examining examined learns learned learning orders ordered ordering refers referred referring acts acted caused causes causing expected expects expecting headed owned owns owning refuses refused refusing shared shares sharing tested testing covers covered covering exists existed existing reflects reflected reflecting tends tended tending crosses crossed crossing experiences experienced experiencing passed passed passing regards regarded regarding charges charged charging relates related relating affects affected affecting checks checked checking expresses expressed expressing performs performed performing releases released releasing shouts shouted shouting affords afforded affording extends extended extending limits limited limiting remains remained remaining shows showed showing touches touched touching claims claimed claiming faces faced facing links linked linking places placed placing trained aims aimed aiming fails failed failing plans planned planning removes removed removing clears cleared clearing decides decided deciding lives lived living repeats repeated repeating treats treated treating answers answered answering climbs climbed fastens fastened fastening looks looked looking points pointed pointing replaces replaced replacing tries tried trying appears appeared appearing closes closed closing demands demanded demanding imagines imagined imagining prefers preferred preferring smiles smiled smiling turns turned turning applies applied applying denies denied denying improves improved improving prepares prepared preparing reports reported reporting sorts sorted sorting depends depended depending includes included including presents presented presenting represents represented representing sounds sounded sounding arranges arranged arranging describes described describing fills filled increase manages managed managing presses pressed pressing requires required requiring arrives arrived arriving designs designed designing indicates indicated indicating marked marking prevents prevented preventing rests rested resting finishes finished finishing influences influenced influencing matters mattered mattering produces produced producing results resulted resulting completes completed completing develops developed developing fits fitted fitting informs informed informing promises promised promising states stated stating avoids avoided avoiding concerns concerned concerning intends intended intending protects protected protecting reveals revealed revealing stays stayed staying bases based basing confirms confirmed confirming disappears disappeared disappearing folds folded folding introduces introduced introducing proves proved proving ring rang rung rings ringing wants wanted wanting connects connected connecting discovers discovered discovering follows followed following invites invited inviting provided provided providing stops stopped stopping considers considered considering discusses discussed discussing forces forced forcing involves involved involving mentions mentioned mentioning publishes publishing rolls rolled rolling washes washed washing consists consisted consisting divides dividing divided divide joins joined joining pulls pulled pulling succeeds succeeded succeeding watches watched watching contacts contacted contacting minds minded minding saves saved saving suffers suffered believes believed believing contains contained containing forms formed forming misses missed missing suggests suggested suggesting won't don't couldn't can't cannot shouldn't wouldn't i'm you're he's she's it's we're they're belongs belonged belonging continues continued continuing dresses dressed dressing founds founding kicks kicked kicking raises raised raising suited suiting contributes contributed contributing gains gained gaining mustn't reaches reached reaching seems seemed seeming supplies supplied supplying wishes wished wishing controls controlled controlling knocks knocked knocking supports supported supporting wonders wondered wondering drops dropped dropping notices noticed noticing realises realising realised realize realizing realizes realized supposed supposes supposing supposedly seemingly surprisingly noticeably frequently regularly unfortunately sadly luckily works worked working copies copied copying lasts lasted lasting obtains obtained obtaining receives received receiving separates separated separating corrects corrected correcting enables enabled enabling occurs occurred occurring recognises recognise recognised recognising recognizes recognized recognizing
+serves served serving encourages encouraged encouraging handles handled handling records recorded recording accept accepted accepts accepting achieve achieved achieves achieving add added adds adding admire admired admires admiring admit admitted admits admitting adopt adopted adopts adopting advise advised advises advising agree agreed agrees agreeing allow allowed allows allowing announce announced announces announcing appreciate appreciated appreciates appreciating approve approved approves approving argue argued argues arguing arrive arrived arrives arriving ask asked asks asking assist assisted assists assisting bake baked bakes baking beg begged begs begging behave behaved behaves behaving boil boiled boils boiling borrow borrowed borrows borrowing brush brushed brushes brushing call called calls calling challenge challenged challenges challenging change changed changes changing cheer cheered cheers cheering chew chewed chews chewing clap clapped claps clapping clean cleaned cleans cleaning collect collected collects collecting compare compared compares comparing complain complained complains complaining repeat repeats repeated repeating repeatedly construct constructed constructs constructing control controlled controls controlling copy copied copies copying count counted counts counting create created creates creating cry cried cries crying cycle cycled cycles cycling damage damaged damages damaging dance danced dances dancing deliver delivered delivers delivering destroy destroyed destroys destroying drag dragged drags dragging earn earned earns earning employ employed employs employing encourage encouraged encourages encouraging enjoy enjoyed enjoys enjoying establish established establishes establishing exercise exercised exercises exercising explain explained explains explaining fry fried fries frying gather gathered gathers gathering greet greeted greets greeting guess guessed guesses guessing hate hated hates hating help helped helps helping hope hoped hopes hoping interrupt interrupted interrupts interrupting introduce introduced introduces introducing irritate irritated irritates irritating joke joked jokes joking jump jumped jumps jumping kick kicked kicks kicking laugh laughed laughs laughing lie lied lies lying like liked likes liking
+
+listen	listened	listens listening
+measure	measured	measures measuring
+move	moved	moves	moving
+need	needed	needs needing
+obey	obeyed	obeys obeying
+offend	offended	offends offending
+offer	offered	offers offering
+open	opened	opens opening
+paint	painted	paints painting
+park	parked	parks parking
+phone	phoned	phones phoning
+pick	picked	picks picking
+play	played	plays playing
+print	printed	prints printing
+punch	punched	punches punching
+punish	punished	punishes punishing
+purchase	 purchased	purchases purchasing
+push	pushed	pushes pushing
+race	raced	races racing
+relax	relaxed	relaxes relaxing
+remember	remembered	remembers remembering
+reply	replied	replies replying
+retire	retired	retires retiring
+return	returned	returns returning
+rub	rubbed	rubs rubbing
+scold	scolded	scolds scolding
+select	selected	selects selecting
+smoke	smoked	smokes smoking
+snore	snored	snores snoring
+stare	stared	stares staring
+start	started	starts starting
+talk	talked	talks talking
+thank	thanked	thanks thanking
+travel	travelled	travels travelling
+trouble	troubled	troubles troubling
+type	typed	types typing
+use	used	uses using
+visit	visited	visits visiting
+wait	waited	waits waiting
+walk	walked	walks walking
+want	wanted	wants wanting
+warn	warned	warns warning
+wink	winked	winks winking
+worry	worried	worries worrying
+yell	yelled	yells yelling
+
+your
+i
+they
+their
+we
+who
+them
+its
+our
+my
+those
+he
+us
+her
+something
+me
+yourself
+someone
+everything
+itself
+everyone
+themselves
+anyone
+him
+whose
+myself
+everybody
+ourselves
+himself
+somebody
+yours
+herself
+whoever
+you
+that
+it
+this
+what
+which
+these
+his
+she
+lot
+anything
+whatever
+nobody
+none
+mine
+anybody
+some
+there
+all
+where
+another
+same
+certain
+nothing
+self
+nowhere
+
+
+aboard
+
+about
+
+above
+
+across
+
+after
+
+against
+
+along
+
+amid
+
+among
+
+anti
+
+around
+
+as
+at
+before
+behind
+below
+beneath
+beside
+besides
+between
+beyond
+but
+by
+concerning
+considering
+despite
+down
+during
+except
+excepting
+excluding
+following
+for
+from
+in
+inside
+into
+minus
+near
+of
+off
+on
+onto
+opposite
+outside
+over
+past
+per
+plus
+regarding
+round
+save
+since
+than
+through
+to
+toward
+towards
+under
+underneath
+unlike
+until
+up
+upon
+versus
+via
+with
+within
+without
+
+
+care	could	enjoy	happen	reduce	settle
+carry	examine	learn	order	refer
+cover	exist	ought	reflect	shall	tend
+act	cause	expect	head	lend	own	refuse	share
+cross	experience	pass	regard		
+charge	relate	should	
+affect	check	express	perform	release	shout	
+afford	extend	limit	remain	show	touch
+claim	face	link	place	fit
+aim	fail	plan	remove
+clear	decide	live	repeat	treat
+answer	climb	fasten	look	point	replace	try
+appear	close	demand	imagine	prefer	smile	turn
+apply	deny	improve	prepare	report	sort	
+depend	include	present	represent	sound	
+arrange	describe	fill	increase	manage	press	require	used to
+arrive	indicate	prevent	rest
+finish	influence	matter	produce	result	complete	develop	inform	may	promise	state	
+avoid	concern		intend	protect	reveal	stay	
+base	confirm	disappear	fold	introduce	prove	want
+connect	discover	follow	invite	provide	stop	
+consider	discuss	force	involve	mention	publish	roll	wash	consist	join	might	pull	succeed	watch
+contact	mind	save	suffer	
+believe	contain		form	miss	suggest	will
+belong	continue	dress	found	kick	raise	
+contribute	gain	must	reach	seem	supply	wish
+control		knock	support	wonder
+drop	notice	realize	realise	suppose	work
+copy	last	obtain	receive	separate	
+correct	enable	occur	recognize	serve	would
+can	encourage	handle	record	should		
+
+
+arise arose arisen 
+arises arising
+awake awoke awoken awaked awakes awaking 
+be was were been
+ is being are
+bear bore bears bearing
+born borne
+ 
+beat beaten beats beating 
+
+become became 
+becomes becoming 
+begin began begun 
+begins beginning
+bend bent 
+
+bends bending bet 
+bid bets betting
+bade bidden 
+
+bind bound 
+
+binds binding bite bit bitten 
+
+bites biting blow blew blown 
+
+blows blowing break broke broken 
+breaks breaking
+breed bred breeds breeding
+bring brought 
+brings bringing
+build built 
+builds building
+burn burned burnt 
+
+burns burning burst 
+
+bursts bursting buy bought buys buying
+cast 
+
+casts casting catch caught 
+
+catches catching choose chose chosen 
+
+chooses choosing come came 
+
+comes coming cost 
+
+costs costing creep crept 
+creeps creeping
+cut cuts cutting
+deal dealt 
+
+deals dealing dig dug 
+
+digs digging dive dived dove 
+
+dives diving do did done 
+
+does doing draw drew drawn 
+
+draws drawing dream dreamed dreamt 
+dreams dreaming
+drink drank drunk
+ drinks drinking
+drive drove driven 
+
+drives driving dwell dwelt dwells dwelling
+eat ate eaten eats eating
+fall fell fallen
+ falls falling
+feed fed 
+
+feeds feeding fight fought 
+
+fights fighting find found 
+
+finds finding flee fled 
+
+flees fleeing fly flew flown 
+
+flies flying forbid forbade forbad forbidden 
+
+forbids forbidding forget forgot forgotten 
+
+forgets forgetting forgive forgave forgiven 
+
+forgives forgiving forsake forsook forsaken 
+
+freeze froze frozen freezes freezing
+get got gotten 
+
+gets getting give gave given
+ gives giving
+go went gone 
+goes going
+grind ground
+ grinds grinding
+grow grew grown grows growing
+hang hung hanged
+ hangs hanging
+have had
+ has having 
+hear heard 
+
+hears hearing hide hid hidden 
+hides hiding
+hit 
+
+hits hitting hold held 
+
+holds holding hurt hurts hurting 
+keep kept 
+keeps keeping
+kneel knelt 
+
+kneels kneeling knit knitted 
+
+knits knitting know knew known knows knowing
+lay laid 
+lays laying
+lead led 
+leads leading
+lean leaned leant 
+leans leaning
+leap leaped leapt 
+leaps leaping
+learn learned learnt 
+
+learns learning leave left 
+leaves leaving
+lend lent 
+lends lending
+let 
+
+lets letting lie lay lain 
+lies 
+light lighted lit 
+
+lights lighting lose lost loses losing
+make made 
+makes making
+mean meant 
+
+means meaning meet met 
+meets meeting
+mistake mistook mistaken mistakes mistaking
+partake partook partaken 
+
+partakes partaking pay paid 
+
+pays paying put puts putting
+read reads reading
+rend rent 
+
+rid 
+
+ride rode ridden 
+
+rides riding rise rose risen 
+rises rising
+run ran runs running
+say said 
+says saying
+see saw seen 
+sees seeing
+seek sought 
+
+seeks seeking sell sold 
+sells selling
+send sent 
+sends sending
+set 
+sets setting
+shake shook shaken
+ shakes shaking
+shed sheds shedding
+shine shone 
+
+shines shining 
+shrink shrank shrunk
+
+shrinks shrinking shut 
+
+shuts shutting sing sang sung 
+
+sings singing sink sank 
+sinks sinking
+sit sat 
+sits sitting
+sleep slept 
+sleeps sleeping
+slide slid slidden 
+
+slides sliding sling slung 
+
+
+speak spoke spoken 
+
+speaks speaking speed sped speeded speeds speeding
+spin spun 
+
+spins spinning spit spat 
+spits spitting
+split 
+
+splits splitting spring sprang sprung
+
+stand stood 
+
+stands standing stick stuck 
+sticks sticking
+sting stung 
+stings stinging
+stink stank stunk 
+
+stinks stinking stride strode stridden 
+
+strive strove striven 
+strives striving
+swear swore sworn 
+
+swears swearing sweep swept swept 
+
+sweeps sweeping swing swung
+take took taken 
+
+takes taking teach taught 
+
+teaches teaching tear tore torn 
+
+tell told 
+tells telling
+think thought 
+thinks thinking 
+throw threw thrown 
+
+throws throwing tread trod trodden 
+understand understood 
+
+understands understanding upset upsetting
+wake woke woken waked 
+
+waking wear wore worn 
+
+wears wearing weave wove woven 
+
+weep wept 
+weeps weeping
+win won 
+wins winning
+wind wound 
+
+winds winding wring wrung 
+
+write wrote written writes writing
+
+or
+yes
+the
+of
+and
+a
+an
+to
+in
+you
+that
+it
+he
+for
+on
+are
+as
+with
+his
+they
+i	
+at
+be
+this
+from
+or
+one
+by
+word
+but
+not
+what
+all
+we
+when
+your	
+there
+each
+which
+she
+how
+their
+if
+up
+other
+about
+out
+many
+then
+them
+these
+so	
+some
+her
+him
+into
+time
+two
+more
+write
+number
+no
+way
+could
+people	
+my
+than
+first
+water
+who
+oil
+its
+now
+long
+down
+day
+may
+part
+
+over
+new
+take
+only
+little
+know
+place
+year
+me
+back
+most
+very
+after
+thing
+our
+just	
+name
+good
+sentence
+man
+great
+where
+through
+much
+before
+line
+right
+too
+old
+any
+same
+boy
+also
+around
+three
+small
+end
+another
+well
+large
+big
+even	
+such
+because
+here
+why
+men
+land
+different
+home
+us
+kind
+hand
+picture
+again
+off
+spells 
+spelling
+air
+away
+house
+point
+page
+letter
+mother
+study
+still
+world
+ 

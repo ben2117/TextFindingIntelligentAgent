@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Learner()
+comment1.params=newWords\ perceptrons
+comment1.target=void\ learnNewWords(java.util.Map,\ java.util.ArrayList)
+comment2.params=gutOderSchlect\ perceptrons
+comment2.target=void\ learnFromLastDecision(boolean,\ java.util.ArrayList)
+comment3.params=w1\ w2\ w3
+comment3.target=java.util.ArrayList\ compareAndRemove(java.util.Map,\ java.util.Map,\ java.util.Map)
+numComments=4

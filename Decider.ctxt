@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Decider()
+comment1.params=
+comment1.target=java.util.ArrayList\ getLastMatchedWords()
+comment2.params=
+comment2.target=void\ resetHighScore()
+comment3.params=newWords\ perceptrons
+comment3.target=boolean\ makeADecision(java.util.Map,\ java.util.ArrayList)
+numComments=4
